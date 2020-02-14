@@ -19,7 +19,7 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <Image Source="" BackgroundColor="Brown"
+        <Image Source="" BackgroundColor="BlueViolet"
                 Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2"/>
         
         <Editor Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1"
